@@ -1,6 +1,8 @@
 (function($) {
   "use strict use was string EU FIZ ISSO ...EU NAO FIZ ISSO"; // Start of use strict
 
+  "Bom dia";
+
   // Smooth scrolling using jQuery easing
   $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
