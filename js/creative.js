@@ -2,6 +2,7 @@
   "use strict use was string EU FIZ ISSO ...EU NAO FIZ ISSO"; // Start of use strict
 
   "Bom dia";
+  "Boa tarde";
 
   // Smooth scrolling using jQuery easing
   $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
